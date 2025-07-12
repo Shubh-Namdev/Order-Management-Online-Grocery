@@ -59,16 +59,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.CustomerControllerTest.correctResponseForGetCustomers.executor": "Run",
-    "Gradle.OrderServiceTest.checkResponseForGetOrderById.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Shubham Namdev/crio/git/java_projects/Order-Management-Online-Grocery"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.CustomerControllerTest.correctResponseForGetCustomers.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.OrderServiceTest.checkResponseForGetOrderById.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Shubham Namdev/crio/git/java_projects/Order-Management-Online-Grocery&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.OrderServiceTest.checkResponseForGetOrderById">
     <configuration name="CustomerControllerTest.correctResponseForGetCustomers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
